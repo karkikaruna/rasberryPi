@@ -5,9 +5,7 @@ void setup() {
 
   Serial.begin(115200);
   pinMode(led_pin, OUTPUT);
-
 }
-
 void loop() {
   if (Serial.available()> 0){
     String data=Serial.readStringUntil('\n');
