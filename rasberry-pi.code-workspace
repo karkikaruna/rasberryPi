@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../esp"
+		},
+		{
+			"name": "rasp",
+			"path": "."
+		},
+		{
+			"name": "dht11",
+			"path": "../dht11"
+		}
+	],
+	"settings": {}
+}
